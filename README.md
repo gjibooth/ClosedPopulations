@@ -10,3 +10,6 @@ Each figure is produced by a series of Jupyter Notebooks:
 * [Figures 4a-c](conference/simulation/figure4a-c_network.ipynb): SPHH contact network and weighted contact matrix
 * [Figures 4e-h](conference/simulation/figure4e-h_infections_averted.ipynb): Treatment adherence vs dosing regimen, and its impact on the number of infections averted
 * [Figure 5](conference/simulation/figure5_protected_vs_unprotected.ipynb): Reduction in individual risk following treatment administration.
+
+Click [here](cruiseship/models) for the Diamond cruise ship transmission model.
+Click [here](conference/models) for the SPHH conference transmission model.

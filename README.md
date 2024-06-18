@@ -12,4 +12,5 @@ Each figure is produced by a series of Jupyter Notebooks:
 * [Figure 5](conference/simulation/figure5_protected_vs_unprotected.ipynb): Reduction in individual risk following treatment administration.
 
 Click [here](cruiseship/models) for the Diamond cruise ship transmission model.
+
 Click [here](conference/models) for the SPHH conference transmission model.

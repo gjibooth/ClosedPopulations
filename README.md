@@ -5,10 +5,10 @@ When citing this work, please cite the original article linked above.
 
 ## Reproducing figures
 Each figure is produced by a series of Jupyter Notebooks:
-* [Figure 2D](cruiseship/plot/figure2d.ipynb): Posterior predictive check of model simulation vs data.
-* [Figure 3](cruiseship/plot/figure3.ipynb): The impact of efficacy, uptake and intervention start time in passangers and crew on the total number of infections
-* [Figure 4A-C](conference/plot/figure4a_c.ipynb): SPHH contact network and weighted contact matrix
-* [Figure 4E-H](conference/plot/figure4e_h.ipynb): Treatment adherence vs dosing regimen on the number of infections averted, and the reduction in individual risk
+* [Figure 2D](cruiseship/plot/figure2d.ipynb): Posterior predictive check of model simulation vs the incidence of symptomatic cases over time aboard the Diamond Princess cruiseship.
+* [Figure 3](cruiseship/plot/figure3.ipynb): The impact of efficacy, uptake and intervention start time in passangers and crew on the total number of infections aboard the Diamond Princess cruiseship.
+* [Figure 4A-C](conference/plot/figure4a_c.ipynb): SPHH conference contact network and weighted contact matrix
+* [Figure 4E-H](conference/plot/figure4e_h.ipynb): Treatment adherence vs dosing regimen on the number of infections averted at the SPHH conference, and the reduction in individual risk
 
 Click [here](cruiseship/models) for the Diamond cruise ship transmission models. <br />
 Click [here](conference/models/conference_model.py) for the SPHH conference transmission model.

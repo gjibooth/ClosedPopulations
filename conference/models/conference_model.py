@@ -17,7 +17,7 @@ def simulate_covid_spread(nr, dt, Tmax, A, s1, p_sev, g_mild, g_sev, efficacy, t
     elif weighted == 'weighted' and percentile == None:
         ValueError('Percentile is unspecified. Specify a percentile between 0 and 100.')
     else:
-        ValueError('Contact matrix weighting is specified incorrectly. Please specify weighted="weighted" and percentile="percentile", or weighted="unweighted".')
+        ValueError('Contact matrix weighting is specified incorrectly. Please specify weighted='weighted' and percentile='percentile', or weighted='unweighted'.')
 
  
 
